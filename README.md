@@ -1,8 +1,8 @@
-# BI211: Principles of Biology
+(# BI212: Principles of Biology
 
-## CRN 40075
+## CRN 11043
 
-# Syllabus: Fall Quarter 2018
+# Syllabus: Winter Quarter 2019
 
 ## Portland Community College
  ---
@@ -11,7 +11,7 @@
 
 |Name|Office Location|Email|Emergency Email|
 |:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|Bldg. 7 Rm. 202-13|mark.fisher3@pcc.edu|mark.aaron.fisher@gmail.com|
+|Mark Fisher, PhD.|Bldg. 7 Rm. 202-TODO|mark.fisher3@pcc.edu|mark.aaron.fisher@gmail.com|
 
 Admin. Asst.: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 
@@ -128,18 +128,17 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 
 |Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|
 |:---:|:---:|:---:|:---:|:---:|
-|24 Sept., 2018|1|Course Overview, Chapter 1: Exploring Life/Chapter 2: Chemical Context of Life|1,2||
-|1 Oct., 2018|2| Chapter 2 (cont.), Chapter 3: Water/ Chapter 3 (cont.), Chapter 4: Carbon|3, 4||
-|8 Oct., 2018|3|Chapter 4 (cont.), Chapter 5: Macromolecules/**Exam 1 Wednesday** exams won't cover chapter sections not reached by exam time|5||
-|15 Oct., 2018|4|Chapter 5: Macromolecules (cont.)/Chapter 6: A tour of the cell|5,6||
-|22 Oct., 2018|5|Chapter 6 (cont.), Chapter 7: Membranes/Chapter 7 (cont.), Chapter 8: Intro. to Metabolism|7,8||
-|29 Oct, 2018|6|**EXAM 2 (Monday)** exams won't cover chapter sections not reached by exam time/Chapter 8 (cont.), Chapter 9: Cellular Respiration|9||
-|5 Nov., 2018|7|Chapter 9: Cellular Respiration (cont.)/Chapter 10: Photosynthesis|9,10||
-|12 Nov., 2018|8|**No lecture on Monday (holiday)**/ Chapter 10 (cont.) |10,11||
-|19 Nov., 2018|9|**Exam 3 Monday** exams won't cover chapter sections not reached by exam time/Wednesday **no class**|11||
-|26 Nov., 2018|10|Chapter 11: Cell Communication/Chapter 11 (cont.), Chapter 13: Meiosis (Chapter 12: The cell cycle delivered via youTube)|12,13||
-|3 Dec., 2018|11|Chapter 13(cont.), Chapter 14: Mendel and the gene idea/Chapter 14: Mendel and the gene idea (cont., any remaining content to be posted as YouTube videos)|14||
-|Monday 10 Dec., 2018, 5:00 PM - 6:50 PM|12|**Comprehensive Final Exam**|NA|||
+|TODO all of these 24 Sept., 2018|1|Syllabus Review, Introductions, Chapter 14.3-14.4 (Non-Mendelian Inheritance)/Chapter 15 (Chromosomal Basis of Inheritance)|14.4-4,15||
+|1 Oct., 2018|2| Chapter 15 (Chromosomal Basis of Inheritance)/ Chapter 16 (Molecular Basis of Inheritance)|15, 16||
+|8 Oct., 2018|3|Chapter 17 (From Gene to Proteins/Ch. 22 (Descent with Modification))|17, 22||
+|15 Oct., 2018|4|EXAM I Wednesday **exams won't cover Chapter  sections not reached by exam time**/Chapter 23 (The Evolution of Populations)|23||
+|22 Oct., 2018|5|Chapter 24 (Origin of Species, Chapter 25 (History of Life on Earth) (take home activity) TODO/Chapter 26 (Phylogeny)|24,25,26||
+|29 Oct, 2018|6|Chapter 27 (Bacteria and Archaea)/**EXAM 2 (Wednesday)**|27||
+|5 Nov., 2018|7|Ch. 28 ( Protists), Chapter 29 (Plants I)/ Chapter 30 (Plants II)|28,29,30||
+|12 Nov., 2018|8|Chapter 31 (Fungi)/Chapter 32 (Animal overview)|31,32||
+|19 Nov., 2018|9|**Exam 3 Monday** exams won't cover chapter  sections not reached by exam time/Chapter 33 (Invertebrates)|33||
+|26 Nov., 2018|10|Chapter 33 (Invertebrates) (cont.)/Chapter 34 (Vertebrates)|33,34||
+|Monday 10 Dec., 2018, 5:00 PM - 6:50 PM|12|**Comprehensive FINAL EXAM   TODO day, TODO location, TODO time**|NA|||
 
 ### Lab
 
