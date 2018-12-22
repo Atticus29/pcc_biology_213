@@ -146,18 +146,17 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Wednesday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|24 Sept., 2018|1|Safety and Scientific Method Overview; Class to library with handout|Lab 1 and Appendix A|||
-|1 Oct., 2018|2| Lactase Case Study (handouts distributed during lab time)|Scientific method terminology in lab manual; Enzyme reading in textbook|Quiz 1|Library Assignment|
-|8 Oct., 2018|3|Amylase Research Overview and Methods 1) Enzymes 4.3A will be performed in lab to learn the method and gather preliminary info., 2) Literature research ongoing, 3) Experimental planning and pilot experiments, and 4) Create final experimental design for next week|All handouts and textbook chapter on enzymes|Quiz 2|1) Lactase Expt. Design, 2) Amylase expt. due at **end** of lab. The amylase design should continue to be examined and improved as needed prior to coming to lab next week|
-|15 Oct., 2018|4|Amylase research experiment (the one you designed!) Note: Your literature reveiw may have yielded new info. to improve your design. If so, bring your improved design plan to class and consult with group and with me prior to carrying it out||Quiz 3|Literature Assignment (see handout for details)|
-|22 Oct., 2018|5|Microscopes|2.1-2.3|Quiz 4|Amylase paper introduction|
-|29 Oct, 2018|6|Microscopes (cont.) with 2.5 plus supplemental items to view; Amylase research follow up (come prepared to ask questions/work on graphs, etc.)|2.5|Quiz 5||
-|5 Nov., 2018|7|Diffusion/Osmosis|3.1-3.3|Quiz 6|Two physical copies of research paper draft due. Use only code name on upper right hand and attach blank rubric to each copy.|
-|12 Nov., 2018|8|Respiration 5.1|5 Intro and 5.1|Quiz 7|Peer edits. Be sure to write, "edited by" and your code name on the upper right hand corner|
-|19 Nov., 2018|9| **Thanksgiving! No lab** (Work on your paper)||||
-|26 Nov., 2018|10|Photosynthesis 6.1-6.4|6.1-6.4|Quiz 8|Scientific paper due|
-|3 Dec., 2018|11|Mitosis and Meiosis (7.1-7.4) and Genetics Problems (online worksheet)|7.1-7.4, Genetics textbook chapter as needed to prepare|Quiz 9|Genetics problems due at latest by beginning of final exam|
-|10 Dec., 2018|12|**Lab does not meet during finals week**|||||
+|24 Sept., 2018|1|Intro. to lab; Intro. to Biotechnology techniques and Part 1 Crime Scene Investigation; Intro. to Cat Genetics activity|In D2L, watch and study videos in the Contents folder TODO ("Prep for crime scene")|Crime Scene BioRad guide TODO; Cat Genetics Handout TODO||
+|1 Oct., 2018|2| Continue Crime Scene and Cat genetics|Same as Week 1|Week 2 Quiz||
+|8 Oct., 2018|3|Bacteriology Intro. and the basic techniques; Transcription and Translation Modeling|Lab manual 12.1 _and_ 12.4; Textbook as needed|Week 3 Quiz||
+|15 Oct., 2018|4|Bacteriology research part II TODO|Lab manual 12.4 (read to understand techniques)|Week 4 Quiz||
+|22 Oct., 2018|5|Hardy Weinberg TODO; Finish bacteriology data collection|Lab manual all of 11|Week 5 Quiz||
+|29 Oct, 2018|6|Systematics lab activity with shells|Read handout TODO|Week 6 Quiz||
+|5 Nov., 2018|7|Eukary(Protists, Plants, Fungi, Animals)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 7 Quiz||
+|12 Nov., 2018|8|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 8 Quiz (Protists)||
+|26 Nov., 2018|9|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 9 Quiz (Plants - all)|Scientific paper due at start of lab|
+|3 Dec., 2018|10|Laboratory Final Exam during normal lab time|||
+|10 Dec., 2018|11|**Lab does not meet during finals week**|||||
 
 ---
 
