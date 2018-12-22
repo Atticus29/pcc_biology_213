@@ -18,18 +18,14 @@ Admin. Asst.: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 ---
 ## Course Info
 
-Includes introduction to science, biochemistry, metabolism, the cell, molecular biology, and reproduction. The first course of a three-course sequence for students majoring in biology and the sciences, including pre-medical, pre-dental, chiropractic, pharmacy, and related fields.
+Second part of a three quarter sequence designed for students majoring in biology and the sciences, including pre-medical, pre-dental, chiropractic, pharmacy, and related fields. Topics include inheritance, the genetic code, modern and classical genetics, evolution, diversity, and systematics.Recommended: High school biology and chemistry within the past seven years.
 
-Recommended: High school biology and chemistry within the past seven years.
-
-Prerequisites: WR 115 and RD 115 or equivalent placement test scores, and MTH 95 or higher.
-
-Concurrent: CH 151 or higher or instructor permission. Audit available.
-See [Course Content and Outcomes Guide](http://www.pcc.edu/ccog/default.cfm?fa=ccog&subject=BI&course=211).
+Prerequisites: BI 211 C or above or instructor approval.
+See [Course Content and Outcomes Guide](http://www.pcc.edu/ccog/default.cfm?fa=ccog&subject=BI&course=211) for a complete course content guide.
 
 ## Evaluation
 
-BI 211 is a five credit hour course which meets seven hours per week for the quarter – four hours of lecture and three hours of lab. It is fully transferable.
+BI 212 is a five credit hour course which meets seven hours per week for the quarter – four hours of lecture and three hours of lab. Lecture and lab sections are linked. This means students must register and attend both as listed above. It is fully transferable.
 
 ---
 
@@ -39,11 +35,11 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 
 - Campbell, Neil, and Jane Reece. **Biology** 11th ed. Benjamin/Cummings Publishing, Menlo Park, CA
 
-- We will also be using the MasteringBiology companion online as a component of your IHOP grade (see below). In addition to the required/assigned content, I strongly encourage you to take advantage of the myriad additional resources available in the online companion (e.g., practice problems). [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account. The Course ID for this course is: **MBFISHER05546**.
+- We will also be using the MasteringBiology companion online as a component of your IHOP grade (see below). In addition to the required/assigned content, I strongly encourage you to take advantage of the myriad additional resources available in the online companion (e.g., practice problems). [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account. The Course ID for this course is: **MBFISHER05546 TODO**.
 
 - Morgan, Judith and Eloise Carter 2011. **Investigating Biology Laboratory Manual**, 9th ed. Benjamin/Cummings Publishing, Menlo Park, CA
 
-- Access to a computer, printer, and the internet, including D2L course pages (the course and many assignments will largely be administered via D2L). Several computer labs are available for students at all PCC campuses. (eg. library in Bldg 9, Student Learning Center, Bldg. 7, and Resources centers, 1st floor Bldg. 7).
+- Access to a computer, printer, and the internet, including D2L course pages (the course and many assignments will largely be administered and/or managed via D2L). Several computer labs are available for students at all PCC campuses. (eg. library in Bldg 9, Student Learning Center, Bldg. 7, and Resources centers, 1st floor Bldg. 7).
 
 #### Socrative
 
@@ -53,14 +49,15 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 ### Strongly Recommended
 
 - Jump drive or cloud storage such as Google Drive
-- Calendar or day planner.
-- Many students have found it very useful to keep a set of colored pencils or pens for various uses during lecture and lab class.
+- Calendar or day planner
+- Many students have found it very useful to keep a set of colored pencils or pens for various uses during lecture and lab class
+- _A Photographic Atlas for the Biology Laboratory_ Van de Graaf. 2007. Morton Publishing, Englewood, Colorado.
 
 
 
 ### Optional
-- *Student Study Guide* (Workbook to go with Campbell). Taylor, M. and/orWebsite access that comes with the new textbook or can be purchased separately.
-- Plan to access to other high-quality educational and library resources including those recommended in class and/or posted at D2L.- Goggles and gloves are provided in the lab, but if you prefer to use your own, please bring these.
+- TODO *Student Study Guide* (Workbook to go with Campbell). Taylor, M. and/orWebsite access that comes with the new textbook or can be purchased separately.
+- Plan to access to other high-quality educational and library resources including those recommended in class and/or posted at D2L.- Goggles and gloves are provided in the lab, but if you prefer to use your own, please bring these. Note that you will need to wear gloves during the dissections labs.
 
 ---
 
@@ -68,9 +65,9 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lecture|Bldg. 7 Rm. 109|MW|5:00 PM-6:50 PM|
-|Lab|Bldg. 7 Rm. 125|W|7:00 PM-9:50 PM|
-|Office Hours|Bldg. 7 Rm. 202-13|By appointment|By appointment	|
+|Lecture|Bldg. 7 Rm. 109 TODO|MW|5:00 PM-6:50 PM|
+|Lab|Bldg. 7 Rm. 125 TODO|W|7:00 PM-9:50 PM|
+|Office Hours|Bldg. 7 Rm. 202-13 TODO|M|3:50 PM - 4:50 PM or by Appointment; Either way, please always inform me of your plans to show up before showing up	|
 ---
 
 ## Grade Breakdown
@@ -126,19 +123,19 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 
 ### Lecture
 
-|Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|
-|:---:|:---:|:---:|:---:|:---:|
-|TODO all of these 24 Sept., 2018|1|Syllabus Review, Introductions, Chapter 14.3-14.4 (Non-Mendelian Inheritance)/Chapter 15 (Chromosomal Basis of Inheritance)|14.4-4,15||
-|1 Oct., 2018|2| Chapter 15 (Chromosomal Basis of Inheritance)/ Chapter 16 (Molecular Basis of Inheritance)|15, 16||
-|8 Oct., 2018|3|Chapter 17 (From Gene to Proteins/Ch. 22 (Descent with Modification))|17, 22||
-|15 Oct., 2018|4|EXAM I Wednesday **exams won't cover Chapter  sections not reached by exam time**/Chapter 23 (The Evolution of Populations)|23||
-|22 Oct., 2018|5|Chapter 24 (Origin of Species, Chapter 25 (History of Life on Earth) (take home activity) TODO/Chapter 26 (Phylogeny)|24,25,26||
-|29 Oct, 2018|6|Chapter 27 (Bacteria and Archaea)/**EXAM 2 (Wednesday)**|27||
-|5 Nov., 2018|7|Ch. 28 ( Protists), Chapter 29 (Plants I)/ Chapter 30 (Plants II)|28,29,30||
-|12 Nov., 2018|8|Chapter 31 (Fungi)/Chapter 32 (Animal overview)|31,32||
-|19 Nov., 2018|9|**Exam 3 Monday** exams won't cover chapter  sections not reached by exam time/Chapter 33 (Invertebrates)|33||
-|26 Nov., 2018|10|Chapter 33 (Invertebrates) (cont.)/Chapter 34 (Vertebrates)|33,34||
-|Monday 10 Dec., 2018, 5:00 PM - 6:50 PM|12|**Comprehensive FINAL EXAM   TODO day, TODO location, TODO time**|NA|||
+|Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|Other Comments
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|7 Jan., 2019|1|Syllabus Review, Introductions, Chapter 14.3-14.4 (Non-Mendelian Inheritance)/Chapter 15 (Chromosomal Basis of Inheritance)|14.3-4,15||Friday 11 Jan.last day to audit; Sat. 12 Jan. last day to drop and last day to choose financial aid refund option|
+|14 Jan., 2019|2| Chapter 15 (Chromosomal Basis of Inheritance)/ Chapter 16 (Molecular Basis of Inheritance)|15, 16||Tuesday 15 Jan. last day to add classes|
+|21 Jan., 2019|3|**No lecture Monday**/Chapter 17 (From Gene to Proteins); Ch. 22 (Descent with Modification))|17, 22|||
+|28 Jan., 2019|4|EXAM I Wednesday **exams won't cover Chapter  sections not reached by exam time**/Chapter 23 (The Evolution of Populations)|23|||
+|4 Feb., 2019|5|Chapter 24 (Origin of Species, Chapter 25 (History of Life on Earth) (take home activity) TODO/Chapter 26 (Phylogeny)|24,25,26|||
+|11 Feb., 2019|6|Chapter 27 (Bacteria and Archaea)/**EXAM 2 (Wednesday)**|27|||
+|18 Feb., 2019|7|Ch. 28 ( Protists), Chapter 29 (Plants I)/ Chapter 30 (Plants II)|28,29,30|||
+|25 Feb., 2019|8|Chapter 31 (Fungi)/Chapter 32 (Animal overview)|31,32||Friday 1 Mar. PCC scholarship application deadline; Saturday 2 Mar. Last day to change grade option and last day to withdraw|
+|4 Mar., 2019|9|**Exam 3 Monday** exams won't cover chapter  sections not reached by exam time/Chapter 33 (Invertebrates)|33|||
+|11 Mar., 2019|10|Chapter 33 (Invertebrates) (cont.)/Chapter 34 (Vertebrates)|33,34|||
+|Monday 18 Dec., 2019, 5:00 PM - 6:50 PM|12|**Comprehensive FINAL EXAM TODO location**|NA||||
 
 ### Lab
 
@@ -146,17 +143,17 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Wednesday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|24 Sept., 2018|1|Intro. to lab; Intro. to Biotechnology techniques and Part 1 Crime Scene Investigation; Intro. to Cat Genetics activity|In D2L, watch and study videos in the Contents folder TODO ("Prep for crime scene")|Crime Scene BioRad guide TODO; Cat Genetics Handout TODO||
-|1 Oct., 2018|2| Continue Crime Scene and Cat genetics|Same as Week 1|Week 2 Quiz||
-|8 Oct., 2018|3|Bacteriology Intro. and the basic techniques; Transcription and Translation Modeling|Lab manual 12.1 _and_ 12.4; Textbook as needed|Week 3 Quiz||
-|15 Oct., 2018|4|Bacteriology research part II TODO|Lab manual 12.4 (read to understand techniques)|Week 4 Quiz||
-|22 Oct., 2018|5|Hardy Weinberg TODO; Finish bacteriology data collection|Lab manual all of 11|Week 5 Quiz||
-|29 Oct, 2018|6|Systematics lab activity with shells|Read handout TODO|Week 6 Quiz||
-|5 Nov., 2018|7|Eukary(Protists, Plants, Fungi, Animals)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 7 Quiz||
-|12 Nov., 2018|8|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 8 Quiz (Protists)||
-|26 Nov., 2018|9|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 9 Quiz (Plants - all)|Scientific paper due at start of lab|
-|3 Dec., 2018|10|Laboratory Final Exam during normal lab time|||
-|10 Dec., 2018|11|**Lab does not meet during finals week**|||||
+|7 Jan., 2019|1|Intro. to lab; Intro. to Biotechnology techniques and Part 1 Crime Scene Investigation; Intro. to Cat Genetics activity|In D2L, watch and study videos in the Contents folder TODO ("Prep for crime scene")|Crime Scene BioRad guide TODO; Cat Genetics Handout TODO||
+|14 Jan., 2019|2| Continue Crime Scene and Cat genetics|Same as Week 1|Week 2 Quiz||
+|21 Jan., 2019|3|Bacteriology Intro. and the basic techniques; Transcription and Translation Modeling|Lab manual 12.1 _and_ 12.4; Textbook as needed|Week 3 Quiz||
+|28 Jan., 2019|4|Bacteriology research part II TODO|Lab manual 12.4 (read to understand techniques)|Week 4 Quiz||
+|4 Feb., 2019|5|Hardy Weinberg TODO; Finish bacteriology data collection|Lab manual all of 11|Week 5 Quiz||
+|11 Feb., 2019|6|Systematics lab activity with shells|Read handout TODO|Week 6 Quiz||
+|18 Feb., 2019|7|Eukary(Protists, Plants, Fungi, Animals)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 7 Quiz||
+|25 Feb., 2019|8|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 8 Quiz (Protists)||
+|4 Mar., 2019|9|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 9 Quiz (Plants - all)|Scientific paper due at start of lab|
+|11 Mar., 2019|10|Laboratory Final Exam during normal lab time|||
+|18 Mar., 2019|11|**Lab does not meet during finals week**|||||
 
 ---
 
@@ -205,13 +202,16 @@ Students are expected to help maintain the appearance of the classroom. Please d
 As you might imagine, we instructors get a ton of emails containing questions that could easily be answered by looking at this document or referring to announcements made online. **As a courtesy to me, please make sure that these information sources have been checked before you email me with logistical questions**. I reserve the right to reply with, "see syllabus" or "see announcements".
 
 ### Photography, video, and audio recording
-Video and audio recording of lectures or class activities is not allowed except under approved circumstances such as for legally-required learning accommodations.  Photographing, video-, or audio-recording a classmate or instructor without their permission is considered a violation of privacy and is not allowed.  
+Video and audio recording of lectures or class activities is not allowed except under approved circumstances such as for legally-required learning accommodations. Photographing, video-, or audio-recording a classmate or instructor without their permission is considered a violation of privacy and is not allowed.  
 Photographing biological specimens or lab instrumentation is allowed and encouraged in the context of our learning activities.
 
 
 ### Academic Integrity
 Students are expected to be honest and ethical in their academic work. Cheating, plagiarism, falsifying, and working with others to cheat are all forms of academic dishonesty. This includes submitting work that is identical (or nearly so, based on the judgment of the instructor) to that of another student, even when completed in the context of “group” work. Various penalties may be imposed and a fair hearing process is in place. Refer to Academic Integrity Policy, which is in the Students’ Rights and Responsibilities Handbook, accessible from the PCC home page under Resources.
 [Code of Student Conduct](www.pcc.edu/about/policy/student-rights/student-rights.pdf#code-of-student-conduct)
+
+### FERPA
+The Family Educational Rights and Privacy Act of 1974 (FERPA) protects the education records of any student who has ever enrolled at PCC.PCC and I as your instructor are committed to treating every student as a respected member of our community of learners. If you have any concerns or questions, please come see me. If I cannot answer your question, I will help you find answers.
 
 ### Sanctuary College
 PCC is a sanctuary college. For more information, see [www.pcc.edu/resources/undocumented-students/](www.pcc.edu/resources/undocumented-students/).
