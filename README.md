@@ -15,6 +15,10 @@
 
 Admin. Asst.: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 
+###Communication
+
+Check D2L every day for course content. Use your PCC account for email. DO NOT USE D2L email as it does not get forwarded to my PCC inbox. It is PCC policy that we are to use PCC email for electronic communication about schoolwork or other college related business. You may also leave me a note at the office drop box  in room 7/TODO. I plan on checking my email daily. If you send me an important message and you don’t get a reply from me within two school days, please try again. It probably means I did not receive it. Please note that I won't accept as an excuse that email failed unless you are able to forward the message you sent.
+
 ---
 ## Course Info
 
@@ -210,6 +214,7 @@ Photographing biological specimens or lab instrumentation is allowed and encoura
 ### Academic Integrity
 Students are expected to be honest and ethical in their academic work. Cheating, plagiarism, falsifying, and working with others to cheat are all forms of academic dishonesty. This includes submitting work that is identical (or nearly so, based on the judgment of the instructor) to that of another student, even when completed in the context of “group” work. Various penalties may be imposed and a fair hearing process is in place. Refer to Academic Integrity Policy, which is in the Students’ Rights and Responsibilities Handbook, accessible from the PCC home page under Resources.
 [Code of Student Conduct](www.pcc.edu/about/policy/student-rights/student-rights.pdf#code-of-student-conduct)
+I am happy to meet with you to discuss this if you have questions or concerns, but please make sure they’re addressed before you begin any work for this class. The Writing Center also provides tutors who can help you with any writing related challenges.
 
 ### FERPA
 The Family Educational Rights and Privacy Act of 1974 (FERPA) protects the education records of any student who has ever enrolled at PCC.PCC and I as your instructor are committed to treating every student as a respected member of our community of learners. If you have any concerns or questions, please come see me. If I cannot answer your question, I will help you find answers.
@@ -231,7 +236,7 @@ A student may receive an I for a course if they miss an essential part of the cl
 
 ### Tips for success in the course
 
-- Ask questions and respect your classmates' rights to ask questions. Asking questions is a hallmark of good science! Every student should feel comfortable asking questions. Don't give up if you feel you don't know what to ask. Learning how to communicate effectively should be one of your goals in a science class. Everyone gets "stuck" at one time or another. Effectively asking questions to help settle your confusion is a very useful and achievable skill. It also happens to be a trait of a good scientist!
+- Ask questions and respect your classmates' rights to ask questions. Asking questions is a hallmark of good science! Every student should feel comfortable asking questions. Don't give up if you feel you don't know what to ask. Learning how to communicate effectively should be one of your goals in a science class. Everyone gets "stuck" at one time or another. Effectively asking questions to help settle your confusion is a very useful and achievable skill. It also happens to be a trait of a good scientist! At the same time, please respect that there is a very long list of topics that we must get through during the course; if the questions don't pertain directly to the course content, perhaps they are better suited for discussions outside of class.
 
 - Science doesn't come naturally to most people; it is a skill, not a talent. If this is your first collegiate science course, you might be surprised at the amount of **time required to be successful**. Typically for every 1 hour a student is in a classroom lecture, they should be putting in 3 hours of homework on assignments, reading, and study time. This means that you should **carve out about 9 hours a week** to devote to reading, reviewing and completing assignments outside of the time spent with me in the classroom. This can vary for each student depending on how effectively you use your time and how well you comprehend the reading, but it should give you an idea of a typical college course expectation.
 
