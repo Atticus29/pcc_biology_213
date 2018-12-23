@@ -15,7 +15,7 @@
 
 Admin. Asst.: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 
-###Communication
+### Communication
 
 Check D2L every day for course content. Use your PCC account for email. DO NOT USE D2L email as it does not get forwarded to my PCC inbox. It is PCC policy that we are to use PCC email for electronic communication about schoolwork or other college related business. You may also leave me a note at the office drop box  in room 7/TODO. I plan on checking my email daily. If you send me an important message and you don’t get a reply from me within two school days, please try again. It probably means I did not receive it. Please note that I won't accept as an excuse that email failed unless you are able to forward the message you sent.
 
