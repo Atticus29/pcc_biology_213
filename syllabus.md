@@ -151,7 +151,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |7 Jan., 2019|1|Intro. to lab; Intro. to Biotechnology techniques and Part 1 Crime Scene Investigation; Intro. to Cat Genetics activity|In D2L, watch and study videos in the Contents folder TODO ("Prep for crime scene")|Crime Scene BioRad guide TODO; Cat Genetics Handout TODO||
 |14 Jan., 2019|2| Continue Crime Scene and Cat genetics|Same as Week 1|Week 2 Quiz||
 |21 Jan., 2019|3|Bacteriology Intro. and the basic techniques; Transcription and Translation Modeling|Lab manual 12.1 _and_ 12.4; Textbook as needed|Week 3 Quiz||
-|28 Jan., 2019|4|Bacteriology research part II TODO|Lab manual 12.4 (read to understand techniques)|Week 4 Quiz||
+|28 Jan., 2019|4|Bacteriology research part II _E. coli_ and _Bacillus_|Lab manual 12.4 (read to understand techniques)|Week 4 Quiz||
 |4 Feb., 2019|5|Hardy Weinberg TODO; Finish bacteriology data collection|Lab manual all of 11|Week 5 Quiz||
 |11 Feb., 2019|6|Systematics lab activity with shells|Read handout TODO|Week 6 Quiz||
 |18 Feb., 2019|7|Eukary(Protists, Plants, Fungi, Animals)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 7 Quiz||
