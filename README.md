@@ -1,4 +1,4 @@
-(# BI212: Principles of Biology
+# BI212: Principles of Biology
 
 ## CRN 11043
 
