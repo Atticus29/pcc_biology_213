@@ -39,7 +39,7 @@ BI 212 is a five credit hour course which meets seven hours per week for the qua
 
 - Campbell, Neil, and Jane Reece. **Biology** 11th ed. Benjamin/Cummings Publishing, Menlo Park, CA
 
-- We will also be using the MasteringBiology companion online as a component of your IHOP grade (see below). In addition to the required/assigned content, I strongly encourage you to take advantage of the myriad additional resources available in the online companion (e.g., practice problems). [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account. The Course ID for this course is: **MBFISHER05546 TODO**.
+- We will also be using the MasteringBiology companion online as a component of your IHOP grade (see below). In addition to the required/assigned content, I strongly encourage you to take advantage of the myriad additional resources available in the online companion (e.g., practice problems). [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account. The Course ID for this course is: **MBFISHER05546**. Please note that there is no 11th edition available for MasteringBiology, so we are using the 8th edition. If you have trouble accessing this from your 11th edition purchase, Pearson will be willing to give you access to the 8th edition if you get in touch with them.
 
 - Morgan, Judith and Eloise Carter 2011. **Investigating Biology Laboratory Manual**, 9th ed. Benjamin/Cummings Publishing, Menlo Park, CA
 
@@ -60,7 +60,6 @@ BI 212 is a five credit hour course which meets seven hours per week for the qua
 
 
 ### Optional
-- TODO *Student Study Guide* (Workbook to go with Campbell). Taylor, M. and/orWebsite access that comes with the new textbook or can be purchased separately.
 - Plan to access to other high-quality educational and library resources including those recommended in class and/or posted at D2L.- Goggles and gloves are provided in the lab, but if you prefer to use your own, please bring these. Note that you will need to wear gloves during the dissections labs.
 
 ---
@@ -69,8 +68,8 @@ BI 212 is a five credit hour course which meets seven hours per week for the qua
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lecture|Bldg. 7 Rm. 109 TODO|MW|5:00 PM-6:50 PM|
-|Lab|Bldg. 7 Rm. 125 TODO|W|7:00 PM-9:50 PM|
+|Lecture|Bldg. 7 Rm. 106|MW|5:00 PM-6:50 PM|
+|Lab|Bldg. 7 Rm. 125|W|7:00 PM-9:50 PM|
 |Office Hours|Bldg. 7 Rm. 202-13 TODO|M|3:50 PM - 4:50 PM or by Appointment; Either way, please always inform me of your plans to show up before showing up	|
 ---
 
@@ -98,7 +97,7 @@ BI 212 is a five credit hour course which meets seven hours per week for the qua
 |In-class assignments, homework, online assignments on Pearson, participation (IHOP)|In order to promote active learning and to practice applying what you’re learning, there will be homework and in-class assignments throughout the term. Some of these will be small group discussion-based critical thinking assignments. You must be in class to participate and receive credit for these in-class assignments. In-class assignments cannot be made up. Weekly online "chapter quizzes" will also be assigned via the Pearson Mastering Biology online companion. You will have six attempts, and your score will be an average of them. Late submission of this online homework will follow the policy described in the “Late Assignments” section.|200 pts.|In class for Socrative and hand-written acitvities, on MasteringBiology for online Pearson assignments|
 |Lab participation 9 @ 5 pts. each|See additional details below|45 pts.|In lab, often with a submitted component on D2L|
 |Lab quizzes 7 @ 10 pts. each, lowest of 8 dropped|See additional details below|70 pts.|In lab, as paper or preferably submitted as Google Form|
-|Cat Genetics Assignment|See description below|25 pts.|TBA TODO|
+|Cat Genetics Assignment|See description below|25 pts.|Definitions submitted as Google Form, Tables submitted on D2L|
 |Laboratory Practical Exam|See description below|60 pts.|On paper during lab period|
 |Scientific Research Project|See description on D2L|100 pts.|Submitted component on D2L|
 |**Total Points**|---|**960 pts.**|
@@ -140,7 +139,7 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 |25 Feb., 2019|8|Chapter 31 (Fungi)/Chapter 32 (Animal overview)|31,32||Friday 1 Mar. PCC scholarship application deadline; Saturday 2 Mar. Last day to change grade option and last day to withdraw|
 |4 Mar., 2019|9|**Exam 3 Monday** exams won't cover chapter  sections not reached by exam time/Chapter 33 (Invertebrates)|33|||
 |11 Mar., 2019|10|Chapter 33 (Invertebrates) (cont.)/Chapter 34 (Vertebrates)|33,34|||
-|Monday 18 Dec., 2019, 5:00 PM - 6:50 PM|11|**Comprehensive FINAL EXAM TODO location**|NA||||
+|Monday 18 Dec., 2019, 5:00 PM - 6:50 PM|11|**Comprehensive FINAL EXAM Rm. 106**|NA||||
 
 ### Lab
 
@@ -148,16 +147,16 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Wednesday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|7 Jan., 2019|1|Intro. to lab; Intro. to Biotechnology techniques and Part 1 Crime Scene Investigation; Intro. to Cat Genetics activity|In D2L, watch and study videos in the Contents folder TODO ("Prep for crime scene")|Crime Scene BioRad guide TODO; Cat Genetics Handout TODO||
-|14 Jan., 2019|2| Continue Crime Scene and Cat genetics|Same as Week 1|Week 2 Quiz||
-|21 Jan., 2019|3|Bacteriology Intro. and the basic techniques; Transcription and Translation Modeling|Lab manual 12.1 _and_ 12.4; Textbook as needed|Week 3 Quiz||
+|7 Jan., 2019|1|Intro. to lab; Intro. to Biotechnology techniques and Part 1 Crime Scene Investigation; Intro. to Cat Genetics activity|In D2L, watch and study videos in the Contents folder TODO ("Prep for crime scene")|Crime Scene BioRad guide; Cat Genetics prompt||
+|14 Jan., 2019|2| Continue Crime Scene and Cat genetics|Same as Week 1|Week 2 Quiz|Cat Genetics table due by end of lab period (D2L)|
+|21 Jan., 2019|3|Bacteriology Intro. and the basic techniques; Transcription and Translation Modeling|Lab manual 12.1 _and_ 12.4 (read to understand techniques); Textbook as needed|Week 3 Quiz|Cat Genetics group definitions form (Google Form)|
 |28 Jan., 2019|4|Bacteriology research part II _E. coli_ and _Bacillus_|Lab manual 12.4 (read to understand techniques)|Week 4 Quiz||
 |4 Feb., 2019|5|Hardy Weinberg TODO; Finish bacteriology data collection|Lab manual all of 11|Week 5 Quiz||
 |11 Feb., 2019|6|Systematics lab activity with shells|Read handout TODO|Week 6 Quiz||
 |18 Feb., 2019|7|Eukary(Protists, Plants, Fungi, Animals)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 7 Quiz||
 |25 Feb., 2019|8|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 8 Quiz (Protists)||
 |4 Mar., 2019|9|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 9 Quiz (Plants - all)|Scientific paper due at start of lab|
-|11 Mar., 2019|10|Laboratory Final Exam during normal lab time|||
+|11 Mar., 2019|10|**Laboratory Final Exam** during normal lab time|||
 |18 Mar., 2019|11|**Lab does not meet during finals week**|||||
 
 ---
