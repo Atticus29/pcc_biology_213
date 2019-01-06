@@ -139,7 +139,7 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 |25 Feb., 2019|8|Chapter 31 (Fungi)/Chapter 32 (Animal overview)|31,32||Friday 1 Mar. PCC scholarship application deadline; Saturday 2 Mar. Last day to change grade option and last day to withdraw|
 |4 Mar., 2019|9|**Exam 3 Monday** exams won't cover chapter  sections not reached by exam time/Chapter 33 (Invertebrates)|33|||
 |11 Mar., 2019|10|Chapter 33 (Invertebrates) (cont.)/Chapter 34 (Vertebrates)|33,34|||
-|Monday 18 Dec., 2019, 5:00 PM - 6:50 PM|11|**Comprehensive FINAL EXAM Rm. 106**|NA||||
+|Monday 18 Mar., 2019, 5:00 PM - 6:50 PM|11|**Comprehensive FINAL EXAM Rm. 106**|NA||||
 
 ### Lab
 
