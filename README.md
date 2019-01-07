@@ -148,8 +148,8 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Wednesday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |7 Jan., 2019|1|Intro. to lab; Intro. to Biotechnology techniques and Part 1 Crime Scene Investigation; Intro. to Cat Genetics activity|In D2L, watch and study videos in the Lab Prompts submodule entitle, "Prep for crime scene"|Crime Scene BioRad guide; Cat Genetics prompt||
-|14 Jan., 2019|2| Continue Crime Scene and Cat genetics|Same as Week 1|Week 2 Quiz|Cat Genetics table due by end of lab period (D2L)|
-|21 Jan., 2019|3|Bacteriology Intro. and the basic techniques; Transcription and Translation Modeling|Lab manual 12.1 _and_ 12.4 (read to understand techniques); Textbook as needed|Week 3 Quiz|Cat Genetics group definitions form (Google Form)|
+|14 Jan., 2019|2| Continue Crime Scene and Cat genetics|Same as Week 1|Week 2 Quiz|Cat Genetics group definitions form (Google Form) due; Cat Genetics table due by end of lab period (D2L)|
+|21 Jan., 2019|3|Bacteriology Intro. and the basic techniques; Transcription and Translation Modeling|Lab manual 12.1 _and_ 12.4 (read to understand techniques); Textbook as needed|Week 3 Quiz||
 |28 Jan., 2019|4|Bacteriology research part II _E. coli_ and _Bacillus_|Lab manual 12.4 (read to understand techniques)|Week 4 Quiz||
 |4 Feb., 2019|5|Hardy Weinberg TODO; Finish bacteriology data collection|Lab manual all of 11|Week 5 Quiz||
 |11 Feb., 2019|6|Systematics lab activity with shells|Read handout TODO|Week 6 Quiz||
