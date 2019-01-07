@@ -11,13 +11,13 @@
 
 |Name|Office Location|Email|Emergency Email|
 |:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|Bldg. 7 Rm. 202-TODO|mark.fisher3@pcc.edu|mark.aaron.fisher@gmail.com|
+|Mark Fisher, PhD.|Bldg. 7 Rm. 202-13 A|mark.fisher3@pcc.edu|mark.aaron.fisher@gmail.com|
 
 Admin. Asst.: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 
 ### Communication
 
-Check D2L every day for course content. Use your PCC account for email. DO NOT USE D2L email as it does not get forwarded to my PCC inbox. It is PCC policy that we are to use PCC email for electronic communication about schoolwork or other college related business. You may also leave me a note at the office drop box  in room 7/TODO. I plan on checking my email daily. If you send me an important message and you don’t get a reply from me within two school days, please try again. It probably means I did not receive it. Please note that I won't accept as an excuse that email failed unless you are able to forward the message you sent.
+Check D2L every day for course content. Use your PCC account for email. DO NOT USE D2L email as it does not get forwarded to my PCC inbox. It is PCC policy that we are to use PCC email for electronic communication about schoolwork or other college related business. You may also leave me a note at the office drop box  in Bldg. 7/Rm. 202. I plan on checking my email daily. If you send me an important message and you don’t get a reply from me within two school days, please try again. It probably means I did not receive it. Please note that I won't accept as an excuse that email failed unless you are able to forward the message you sent.
 
 ---
 ## Course Info
@@ -70,7 +70,7 @@ BI 212 is a five credit hour course which meets seven hours per week for the qua
 |:---:|:---:|:---:|:---:|
 |Lecture|Bldg. 7 Rm. 106|MW|5:00 PM-6:50 PM|
 |Lab|Bldg. 7 Rm. 125|W|7:00 PM-9:50 PM|
-|Office Hours|Bldg. 7 Rm. 202-13 TODO|M|3:50 PM - 4:50 PM or by Appointment; Either way, please always inform me of your plans to show up before showing up	|
+|Office Hours|Bldg. 7 Rm. 202-13 A|M|3:50 PM - 4:50 PM or by Appointment; Either way, please always inform me of your plans to show up before showing up	|
 ---
 
 ## Grade Breakdown
