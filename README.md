@@ -147,17 +147,19 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Wednesday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|7 Jan., 2019|1|Intro. to lab; Intro. to Biotechnology techniques and Part 1 Crime Scene Investigation; Intro. to Cat Genetics activity|In D2L, watch and study videos in the Lab Prompts submodule entitle, "Prep for crime scene"|Crime Scene BioRad guide; Cat Genetics prompt||
-|14 Jan., 2019|2| Continue Crime Scene and Cat genetics|Same as Week 1|Week 2 Quiz|Cat Genetics group definitions form (Google Form) due; Cat Genetics table due by end of lab period (D2L)|
-|21 Jan., 2019|3|Bacteriology Intro. and the basic techniques; Transcription and Translation Modeling|Lab manual 12.1 _and_ 12.4 (read to understand techniques); Textbook as needed|Week 3 Quiz||
-|28 Jan., 2019|4|Bacteriology research part II _E. coli_ and _Bacillus_|Lab manual 12.4 (read to understand techniques)|Week 4 Quiz||
-|4 Feb., 2019|5|Hardy Weinberg TODO; Finish bacteriology data collection|Lab manual all of 11|Week 5 Quiz||
-|11 Feb., 2019|6|Systematics lab activity with shells|Read handout TODO|Week 6 Quiz||
+|7 Jan., 2019|1|Intro. to lab; Intro. to Biotechnology techniques and Crime Scene Investigation dry run; Intro. to Cat Genetics activity|In D2L, watch and study videos in the Lab Prompts submodule entitled, "Prep for crime scene"|Crime Scene BioRad guide; Cat Genetics prompt||
+|14 Jan., 2019|2| Crime Scene PCR set up; Cat genetics finish; Instructor into. of bacteriology; Group bacteriology project brainstorm and literature search|Same as Week 1 and Bacteriology project prompt (D2L)|Week 2 Quiz|Cat Genetics group definitions form (Google Form) due; Cat Genetics table due by end of lab period (D2L)|
+|21 Jan., 2019|3|Crime Scene gel electrophoresis; Instructor intro. to bacteriology; Group bacteriology project brainstorm and literature search (cont.)|See Week 2|Week 3 Quiz||
+|28 Jan., 2019|4|Bacteriology intro. to basic techniques; practice spreadplating; group brainstorm/literature search (cont.)|Lab manual 12.1 _and_ 12.4 (read to understand techniques); Textbook as needed|Week 4 Quiz||
+|4 Feb., 2019|5|Bacteriology set up experiment (_E. coli_ and _Bacillus_); Paper discussion and workshopping|Lab manual 12.4 (read to understand techniques); Textbook as needed|Week 5 Quiz||
+|11 Feb., 2019|6|Finish bacteriology data collection*; Systematics lab activity with shells|Read handout TODO|Week 6 Quiz||
 |18 Feb., 2019|7|Eukary(Protists, Plants, Fungi, Animals)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 7 Quiz||
 |25 Feb., 2019|8|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 8 Quiz (Protists)||
-|4 Mar., 2019|9|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 9 Quiz (Plants - all)|Scientific paper due at start of lab|
+|4 Mar., 2019|9|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 9 Quiz (Plants - all)|**Scientific paper due at start of lab**|
 |11 Mar., 2019|10|**Laboratory Final Exam** during normal lab time|||
 |18 Mar., 2019|11|**Lab does not meet during finals week**|||||
+
+*Highly recommended to measure (and photograph) zone of inhibition 2 days after incubation was started/experiment was begun
 
 ---
 
