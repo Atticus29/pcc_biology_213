@@ -153,9 +153,9 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |28 Jan., 2019|4|Bacteriology intro. to basic techniques; practice spreadplating; group brainstorm/literature search (cont.)|Lab manual 12.1 _and_ 12.4 (read to understand techniques); Textbook as needed|Week 4 Quiz||
 |4 Feb., 2019|5|Bacteriology set up experiment (_E. coli_ and _Bacillus_); Paper discussion and workshopping|Lab manual 12.4 (read to understand techniques); Textbook as needed|Week 5 Quiz||
 |11 Feb., 2019|6|Finish bacteriology data collection*; Systematics lab activity with shells|Read handout TODO|Week 6 Quiz||
-|18 Feb., 2019|7|Eukary(Protists, Plants, Fungi, Animals)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 7 Quiz||
-|25 Feb., 2019|8|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 8 Quiz (Protists)||
-|4 Mar., 2019|9|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide TODO (independently paced)|Week 9 Quiz (Plants - all)|**Scientific paper due at start of lab**|
+|18 Feb., 2019|7|Eukary(Protists, Plants, Fungi, Animals)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 7 Quiz||
+|25 Feb., 2019|8|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 8 Quiz (Protists)||
+|4 Mar., 2019|9|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 9 Quiz (Plants - all)|**Scientific paper due at start of lab**|
 |11 Mar., 2019|10|**Laboratory Final Exam** during normal lab time|||
 |18 Mar., 2019|11|**Lab does not meet during finals week**|||||
 
