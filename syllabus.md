@@ -132,14 +132,14 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 |7 Jan., 2019|1|Syllabus Review, Introductions, Chapter 14.3-14.4 (Interesting Mendelian Inheritance Patterns)/Chapter 15 (Chromosomal Basis of Inheritance)|14.3-4,15||Friday 11 Jan.last day to audit; Sat. 12 Jan. last day to drop and last day to choose financial aid refund option|
 |14 Jan., 2019|2| Chapter 15 (Chromosomal Basis of Inheritance)/ Chapter 16 (Molecular Basis of Inheritance)|15, 16||Tuesday 15 Jan. last day to add classes|
 |21 Jan., 2019|3|**No lecture Monday**/Chapter 17 (From Gene to Proteins); Ch. 22 (Descent with Modification))|17, 22|||
-|28 Jan., 2019|4|**EXAM I Monday** (exams won't cover Chapter  sections not reached by exam time)/Chapter 23 (The Evolution of Populations)|23|||
-|4 Feb., 2019|5|Chapter 24 (Origin of Species, Chapter 25 (History of Life on Earth) (take home activity) TODO/Chapter 26 (Phylogeny)|24,25,26|||
-|11 Feb., 2019|6|Chapter 27 (Bacteria and Archaea)/**EXAM 2 (Wednesday)**|27|||
+|28 Jan., 2019|4|**EXAM I Monday** (exams won't cover Chapter  sections not reached by exam time)/Chapter 23 (The Evolution of Populations)|23|MasteringBiology online work Chapters 15 - 17 (Mon.)||
+|4 Feb., 2019|5|Chapter 24 (Origin of Species, Chapter 25 (History of Life on Earth) (take home activity) TODO/Chapter 26 (Phylogeny)|24,25,26|Study Skills 1||
+|11 Feb., 2019|6|Chapter 27 (Bacteria and Archaea)/**EXAM 2 (Wednesday)**|27|MasteringBiology online work Chapters 22 - 26 (Wed.)||
 |18 Feb., 2019|7|Ch. 28 ( Protists), Chapter 29 (Plants I)/ Chapter 30 (Plants II)|28,29,30|||
 |25 Feb., 2019|8|Chapter 31 (Fungi)/Chapter 32 (Animal overview)|31,32||Friday 1 Mar. PCC scholarship application deadline; Saturday 2 Mar. Last day to change grade option and last day to withdraw|
-|4 Mar., 2019|9|**EXAM 3 Monday** exams won't cover chapter  sections not reached by exam time/Chapter 33 (Invertebrates)|33|||
-|11 Mar., 2019|10|Chapter 33 (Invertebrates) (cont.)/Chapter 34 (Vertebrates)|33,34|||
-|Monday 18 Mar., 2019, 5:00 PM - 6:50 PM|11|**Comprehensive FINAL EXAM Rm. 106**|NA||||
+|4 Mar., 2019|9|**EXAM 3 Monday** exams won't cover chapter  sections not reached by exam time/Chapter 33 (Invertebrates)|33|MasteringBiology online work Chapters 27 - 31 (Mon.)||
+|11 Mar., 2019|10|Chapter 33 (Invertebrates) (cont.)/Chapter 34 (Vertebrates)|33,34|Study Skills 2||
+|Monday 18 Mar., 2019, 5:00 PM - 6:50 PM|11|**Comprehensive FINAL EXAM Rm. 106**|NA|MasteringBiology online work Chapters 32 - 34 (Mon.)|||
 
 ### Lab
 
