@@ -131,8 +131,8 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |7 Jan., 2019|1|Syllabus Review, Introductions, Chapter 14.3-14.4 (Interesting Mendelian Inheritance Patterns)/Chapter 15 (Chromosomal Basis of Inheritance)|14.3-4,15||Friday 11 Jan.last day to audit; Sat. 12 Jan. last day to drop and last day to choose financial aid refund option|
 |14 Jan., 2019|2| Chapter 15 (Chromosomal Basis of Inheritance)/ Chapter 16 (Molecular Basis of Inheritance)|15, 16||Tuesday 15 Jan. last day to add classes|
-|21 Jan., 2019|3|**No lecture Monday**/Chapter 17 (From Gene to Proteins); Ch. 22 (Descent with Modification))|17, 22|||
-|28 Jan., 2019|4|**EXAM I Monday** (exams won't cover Chapter  sections not reached by exam time)/Chapter 23 (The Evolution of Populations)|23|MasteringBiology online work Chapters 15 - 17 (Mon.)||
+|21 Jan., 2019|3|**No lecture Monday**/Chapter 17 (From Gene to Proteins), YouTube videos of remaining content|17, 22|||
+|28 Jan., 2019|4|**EXAM I Monday** (Ch. 14.3-14.4, 15-17)/Ch. 22 (Descent with Modification), Chapter 23 (The Evolution of Populations)|23|MasteringBiology online work Chapters 15 - 17 (Mon.)||
 |4 Feb., 2019|5|Chapter 24 (Origin of Species, Chapter 25 (History of Life on Earth) (take home activity) TODO/Chapter 26 (Phylogeny)|24,25,26|||
 |11 Feb., 2019|6|Chapter 27 (Bacteria and Archaea)/**EXAM 2 (Wednesday)**|27|Study Skills 1 (D2L); MasteringBiology online work Chapters 22 - 26 (Wed.)||
 |18 Feb., 2019|7|Ch. 28 ( Protists), Chapter 29 (Plants I)/ Chapter 30 (Plants II)|28,29,30|||
