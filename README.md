@@ -152,7 +152,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |21 Jan., 2019|3|Crime Scene gel electrophoresis; Instructor intro. to bacteriology; Group bacteriology project brainstorm and literature search (cont.)|See Week 2|Week 3 Quiz||
 |28 Jan., 2019|4|Bacteriology intro. to basic techniques; practice spreadplating; group brainstorm/literature search (cont.)|Lab manual 12.1 _and_ 12.4 (read to understand techniques); Textbook as needed|Week 4 Quiz||
 |4 Feb., 2019|5|Bacteriology set up experiment (_E. coli_ and _Bacillus_); Paper discussion and workshopping|Lab manual 12.4 (read to understand techniques); Textbook as needed|Week 5 Quiz||
-|11 Feb., 2019|6|Finish bacteriology data collection*; Systematics lab activity with shells|Read handout TODO|Week 6 Quiz||
+|11 Feb., 2019|6|Finish bacteriology data collection*; Systematics lab activity with shells|[Read handout](https://docs.google.com/document/d/1AMxtp4aF9z3ZwjC_xZD9bRJZM-MAmJS3wwWfmoUBhNk/edit?usp=sharing)|Week 6 Quiz||
 |18 Feb., 2019|7|Eukarya (Protists, Plants, Fungi, Animals)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 7 Quiz (Systematics lab and intro. to protists)||
 |25 Feb., 2019|8|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 8 Quiz (Protists)||
 |4 Mar., 2019|9|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 9 Quiz (Plants and fungi)|**Scientific paper due at start of lab**|
