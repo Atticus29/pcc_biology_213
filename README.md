@@ -137,7 +137,7 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 |11 Feb., 2019|6|Chapter 27 (Bacteria and Archaea)(portions delivered remotely)/**EXAM 2 (Wednesday) includes any 5 questions from Chapter 25 Objectives**|27|Study Skills 1 (D2L); MasteringBiology online work Chapters 22 - 26 (Wed.)||
 |18 Feb., 2019|7|Ch. 28 ( Protists)/ Chapter 29 (Plants I) |28,29|||
 |25 Feb., 2019|8|Chapter 29 (Plants I)(cont.), Chapter 30 (Plants II)/Chapter 31 (Fungi), Chapter 32 (Animal overview) (delivered remotely)|30, 31,32||Friday 1 Mar. PCC scholarship application deadline; Saturday 2 Mar. Last day to change grade option and last day to withdraw|
-|4 Mar., 2019|9|**EXAM 3 Monday** exams won't cover chapter sections not reached in lecture or video by exam time/Chapter 33 (Invertebrates)|33|MasteringBiology online work Chapters 27 - 31 (Mon.)||
+|4 Mar., 2019|9|Chapter 33 (Invertebrates)/**EXAM 3 Wednesday** Exam won't cover chapter sections not reached in lecture or video by exam time|33|MasteringBiology online work Chapters 27 - 31 (Mon.)||
 |11 Mar., 2019|10|Chapter 33 (Invertebrates) (cont.)/Chapter 34 (Vertebrates)|33,34|Study Skills 2 (D2L)||
 |Monday 18 Mar., 2019, 5:00 PM - 6:50 PM|11|**Comprehensive FINAL EXAM Rm. 106**|NA|MasteringBiology online work Chapters 32 - 34 (Mon.)|||
 
