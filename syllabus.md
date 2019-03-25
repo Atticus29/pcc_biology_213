@@ -22,13 +22,13 @@ Check D2L every day for course content. Use your PCC account for email. DO NOT U
 ---
 ## Course Info and Objectives
 
-Third part of a three quarter sequence designed for students majoring in biology and the sciences, including pre-medical, pre-dental, chiropractic, pharmacy, and related fields. Topics include TODO
+Includes plant and animal anatomy and physiology, and individual, population, community and ecosystem ecology. The third course of a three-course sequence for students majoring in biology and the sciences, including pre-medical, pre-dental, chiropractic, pharmacy, and related fields. Audit available.
 
 Upon successful completion students will be able to:- Apply biological theories and concepts to novel problems in plant/animal anatomy and physiology and ecology
-- Assess the strengths and weaknesses of scientific studies in plant/animal anatomy and physiology and ecology and critically examine the influence of scientific and technical knowledge of plant/animal anatomy and physiology and ecology on human society and the environment.
-- Apply concepts from plant/animal anatomy and physiology and ecology to their lives and community (personal, work, and career)
-- Develop informed positions and opinions on contemporary issues in plant/animal anatomy and physiology and ecology, while considering ethical, scientific, community, and cultural implications
-- Communicate concepts in plant/animal anatomy and physiology and ecology using appropriate terminology in both written and verbal forms.
+- Assess the strengths and weaknesses of scientific studies in plant/animal anatomy and physiology and ecology and critically examine the influence of scientific and technical knowledge of plant/animal anatomy and physiology and ecology on human society and the environment
+- Apply concepts from plant/animal anatomy, physiology, and ecology to their lives and community (personal, work, and career)
+- Develop informed positions and opinions on contemporary issues in plant/animal anatomy, physiology, and ecology while considering ethical, scientific, community, and cultural implications
+- Communicate concepts in plant/animal anatomy, physiology, and ecology using appropriate terminology in both written and verbal forms.
 - Competently enter and complete further work in the sciences upper-level courses in plant/animal anatomy, physiology, and ecology.Recommended: High school biology and chemistry within the past seven years.
 
 Prerequisites: BI 212 C or above or instructor approval.
@@ -141,7 +141,7 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 |8 Apr., 2019|2| Chapter 38 (Plant Reproduction)/ Chapter 39 (Plant Responses)|38, 39||Tuesday 9 Apr. last day to add classes|
 |15 Apr., 2019|3|**EXAM I Monday**/Chapter 40 (An Introduction to Animals), Chapter 41 (Animal Nutrition)|40, 41|||
 |22 Apr., 2019|4| Chapter 41 (Animal Nutrition) (cont.), Chapter 42 (Circulation and Gas Exchange)/Chapter 42 (Circulation and Gas Exchange) (cont.)|42|MasteringBiology online work Chapters 15 - 17 (Friday Feb. 1)||
-|29 Apr., 2019|5|Chapter 45 (Osmoregulation and Excretion)/**EXAM 2 (Wednesday)**|45|||
+|29 Apr., 2019|5|Chapter 44 (Osmoregulation and Excretion)/**EXAM 2 (Wednesday)**|44|||
 |6 May, 2019|6|Chapter 45 (Endocrine System)/Chapter 48 (Neurons, Synapses, and Signaling), Chapter 49 (Nervous Systems)|45, 48, 49|TODO Study Skills 1 (D2L); MasteringBiology online work Chapters 22 - 26 (Wed.)||
 |13 May, 2019|7|Ch. 50 (Sensory & Motor Mechanisms)/ Chapter 52 (An Intro. to Ecology) |50, 52|||
 |20 May, 2019|8|Chapter 53 (Population Ecology)/**EXAM 3 Wednesday** Exam won't cover chapter sections not reached in lecture or video by exam time|53||Sat. 25 May last day to change grade option for 11-12 week classes, last day to withdraw from 11-12 week classes|
