@@ -1,8 +1,8 @@
-# BI212: Principles of Biology
+# BI213: Principles of Biology
 
-## CRN 11043
+## CRN 20622
 
-# Syllabus: Winter Quarter 2019
+# Syllabus: Spring Quarter 2019
 
 ## Portland Community College
  ---
@@ -11,7 +11,7 @@
 
 |Name|Office Location|Email|Emergency Email|
 |:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|Bldg. 7 Rm. 202-13 A|mark.fisher3@pcc.edu|mark.aaron.fisher@gmail.com|
+|Mark Fisher, PhD.|Bldg. 7 Rm. 202-TODO|mark.fisher3@pcc.edu|mark.aaron.fisher@gmail.com|
 
 Admin. Asst.: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 
@@ -129,17 +129,17 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 
 |Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|Other Comments
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|7 Jan., 2019|1|Syllabus Review, Introductions, Chapter 14.3-14.4 (Interesting Mendelian Inheritance Patterns)/Chapter 15 (Chromosomal Basis of Inheritance)|14.3-4,15||Friday 11 Jan.last day to audit; Sat. 12 Jan. last day to drop and last day to choose financial aid refund option|
-|14 Jan., 2019|2| Chapter 15 (Chromosomal Basis of Inheritance)/ Chapter 16 (Molecular Basis of Inheritance)|15, 16||Tuesday 15 Jan. last day to add classes|
-|21 Jan., 2019|3|**No lecture Monday**/Chapter 17 (From Gene to Proteins), YouTube videos of remaining content|17|||
-|28 Jan., 2019|4|**EXAM I Monday** (Ch. 14.3-14.4, 15-17)/Ch. 22 (Descent with Modification), Chapter 23 (The Evolution of Populations)|22, 23|MasteringBiology online work Chapters 15 - 17 (Friday Feb. 1)||
-|4 Feb., 2019|5|Chapter 23 (The Evolution of Populations)(cont.), Chapter 24 (Origin of Species, Chapter 25 (History of Life on Earth) (independent reading + video)/Chapter 26 (Phylogeny)|23 (cont.), 24,25,26|||
-|11 Feb., 2019|6|Chapter 27 (Bacteria and Archaea)(portions delivered remotely)/**EXAM 2 (Wednesday) includes any 5 questions from Chapter 25 Objectives**|27|Study Skills 1 (D2L); MasteringBiology online work Chapters 22 - 26 (Wed.)||
-|18 Feb., 2019|7|Ch. 28 ( Protists)/ Chapter 29 (Plants I) |28,29|||
-|25 Feb., 2019|8|Chapter 29 (Plants I)(cont.), Chapter 30 (Plants II)/Chapter 31 (Fungi) (delivered remotely)|30, 31,32||Friday 1 Mar. PCC scholarship application deadline; Saturday 2 Mar. Last day to change grade option and last day to withdraw|
-|4 Mar., 2019|9|Chapter 32 (Animal overview)/**EXAM 3 Wednesday** Exam won't cover chapter sections not reached in lecture or video by exam time|33|MasteringBiology online work Chapters 27 - 31 (Mon.)||
-|11 Mar., 2019|10|Chapter 33 (Invertebrates)/Chapter 34 (Vertebrates)(remainder delvered remotely)|33,34|Study Skills 2 (D2L)||
-|Monday 18 Mar., 2019, 5:00 PM - 6:50 PM|11|**Comprehensive FINAL EXAM Rm. 106**|NA|MasteringBiology online work Chapters 32 - 34 (Mon.)|||
+|1 Apr., 2019|1|Syllabus Review, Introductions, Chapter 35 (Plant Structure and Growth)/Chapter 36 (Transport in Plants), Chapter 37 (Plant Nutrition)|35, 36, 3 7||Friday 5 Apr. last day to audit; Sat. 6 Apr. last day to drop 8-12 week classes; Sat. 6 Apr. last day to choose financial aid refund option|
+|8 Apr., 2019|2| Chapter 38 (Plant Reproduction)/ Chapter 39 (Plant Responses)|38, 39||Tuesday 9 Apr. last day to add classes|
+|15 Apr., 2019|3|**EXAM I Monday**/Chapter 40 (An Introduction to Animals), Chapter 41 (Animal Nutrition)|40, 41|||
+|22 Apr., 2019|4| (Ch. 14.3-14.4, 15-17)/Ch. 22 (Descent with Modification), Chapter 23 (The Evolution of Populations)|22, 23|MasteringBiology online work Chapters 15 - 17 (Friday Feb. 1)||
+|29 Apr., 2019|5|Chapter 23 (The Evolution of Populations)(cont.), Chapter 24 (Origin of Species, Chapter 25 (History of Life on Earth) (independent reading + video)/Chapter 26 (Phylogeny)|23 (cont.), 24,25,26|||
+|6 May, 2019|6|Chapter 27 (Bacteria and Archaea)(portions delivered remotely)/**EXAM 2 (Wednesday) includes any 5 questions from Chapter 25 Objectives**|27|Study Skills 1 (D2L); MasteringBiology online work Chapters 22 - 26 (Wed.)||
+|13 May, 2019|7|Ch. 28 ( Protists)/ Chapter 29 (Plants I) |28,29|||
+|20 May, 2019|8|Chapter 29 (Plants I)(cont.), Chapter 30 (Plants II)/Chapter 31 (Fungi) (delivered remotely)|30, 31,32||Sat. 25 May last day to change grade option for 11-12 week classes, last day to withdraw from 11-12 week classes|
+|27 May, 2019|9|**Holiday; No class** Chapter 32 (Animal overview)/**EXAM 3 Wednesday** Exam won't cover chapter sections not reached in lecture or video by exam time|33|MasteringBiology online work Chapters 27 - 31 (Mon.)||
+|3 Jun., 2019|10|Chapter 33 (Invertebrates)/Chapter 34 (Vertebrates)(remainder delvered remotely)|33,34|Study Skills 2 (D2L)||
+|TODO Monday 10 Jun., 2019, 5:00 PM - 6:50 PM|11|**Comprehensive FINAL EXAM Rm. 106**|NA|MasteringBiology online work Chapters 32 - 34 (Mon.)|||
 
 ### Lab
 
@@ -147,17 +147,17 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Wednesday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|7 Jan., 2019|1|Intro. to lab; Intro. to Biotechnology techniques and Crime Scene Investigation dry run; Intro. to Cat Genetics activity|In D2L, watch and study videos in the Lab Prompts submodule entitled, "Prep for crime scene"|Crime Scene BioRad guide; Cat Genetics prompt||
-|14 Jan., 2019|2| Crime Scene PCR set up; Cat genetics finish; Instructor into. of bacteriology; Group bacteriology project brainstorm and literature search|Same as Week 1 and Bacteriology project prompt (D2L)|Week 2 Quiz|Cat Genetics group definitions form (Google Form) due; Cat Genetics table due by end of lab period (D2L)|
-|21 Jan., 2019|3|Crime Scene gel electrophoresis; Instructor intro. to bacteriology; Group bacteriology project brainstorm and literature search (cont.)|See Week 2|Week 3 Quiz||
-|28 Jan., 2019|4|Bacteriology intro. to basic techniques; practice spreadplating; group brainstorm/literature search (cont.)|Lab manual 12.1 _and_ 12.4 (read to understand techniques); Textbook as needed|Week 4 Quiz||
-|4 Feb., 2019|5|Bacteriology set up experiment (_E. coli_ and _Bacillus_); Paper discussion and workshopping|Lab manual 12.4 (read to understand techniques); Textbook as needed|Week 5 Quiz||
-|11 Feb., 2019|6|Finish bacteriology data collection*; Systematics lab activity with shells|[Read handout](https://docs.google.com/document/d/1AMxtp4aF9z3ZwjC_xZD9bRJZM-MAmJS3wwWfmoUBhNk/edit?usp=sharing)|Week 6 Quiz||
-|18 Feb., 2019|7|Eukarya (Protists, Plants, Fungi, Animals)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 7 Quiz (Systematics lab and intro. to protists)||
-|25 Feb., 2019|8|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 8 Quiz (Protists)||
-|4 Mar., 2019|9|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 9 Quiz (Plants and fungi)|**Scientific paper due at start of lab**|
-|11 Mar., 2019|10|**Laboratory Final Exam** during normal lab time|||
-|18 Mar., 2019|11|**Lab does not meet during finals week**|||||
+|1 Apr., 2019|1|Intro. to lab; Intro. to Biotechnology techniques and Crime Scene Investigation dry run; Intro. to Cat Genetics activity|In D2L, watch and study videos in the Lab Prompts submodule entitled, "Prep for crime scene"|Crime Scene BioRad guide; Cat Genetics prompt||
+|8 Apr., 2019|2| Crime Scene PCR set up; Cat genetics finish; Instructor into. of bacteriology; Group bacteriology project brainstorm and literature search|Same as Week 1 and Bacteriology project prompt (D2L)|Week 2 Quiz|Cat Genetics group definitions form (Google Form) due; Cat Genetics table due by end of lab period (D2L)|
+|15 Apr., 2019|3|Crime Scene gel electrophoresis; Instructor intro. to bacteriology; Group bacteriology project brainstorm and literature search (cont.)|See Week 2|Week 3 Quiz||
+|22 Apr., 2019|4|Bacteriology intro. to basic techniques; practice spreadplating; group brainstorm/literature search (cont.)|Lab manual 12.1 _and_ 12.4 (read to understand techniques); Textbook as needed|Week 4 Quiz||
+|29 Apr., 2019|5|Bacteriology set up experiment (_E. coli_ and _Bacillus_); Paper discussion and workshopping|Lab manual 12.4 (read to understand techniques); Textbook as needed|Week 5 Quiz||
+|6 May, 2019|6|Finish bacteriology data collection*; Systematics lab activity with shells|[Read handout](https://docs.google.com/document/d/1AMxtp4aF9z3ZwjC_xZD9bRJZM-MAmJS3wwWfmoUBhNk/edit?usp=sharing)|Week 6 Quiz||
+|13 May, 2019|7|Eukarya (Protists, Plants, Fungi, Animals)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 7 Quiz (Systematics lab and intro. to protists)||
+|20 May, 2019|8|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 8 Quiz (Protists)||
+|27 May, 2019|9|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 9 Quiz (Plants and fungi)|**Scientific paper due at start of lab**|
+|3 Jun., 2019|10|**Laboratory Final Exam** during normal lab time|||
+|10 Jun., 2019|11|**Lab does not meet during finals week**|||||
 
 *Highly recommended to measure (and photograph) zone of inhibition 2 days after incubation was started/experiment was begun
 
