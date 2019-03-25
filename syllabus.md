@@ -147,19 +147,17 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Wednesday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1 Apr., 2019|1|Intro. to lab; Intro. to Biotechnology techniques and Crime Scene Investigation dry run; Intro. to Cat Genetics activity|In D2L, watch and study videos in the Lab Prompts submodule entitled, "Prep for crime scene"|Crime Scene BioRad guide; Cat Genetics prompt||
-|8 Apr., 2019|2| Crime Scene PCR set up; Cat genetics finish; Instructor into. of bacteriology; Group bacteriology project brainstorm and literature search|Same as Week 1 and Bacteriology project prompt (D2L)|Week 2 Quiz|Cat Genetics group definitions form (Google Form) due; Cat Genetics table due by end of lab period (D2L)|
-|15 Apr., 2019|3|Crime Scene gel electrophoresis; Instructor intro. to bacteriology; Group bacteriology project brainstorm and literature search (cont.)|See Week 2|Week 3 Quiz||
-|22 Apr., 2019|4|Bacteriology intro. to basic techniques; practice spreadplating; group brainstorm/literature search (cont.)|Lab manual 12.1 _and_ 12.4 (read to understand techniques); Textbook as needed|Week 4 Quiz||
-|29 Apr., 2019|5|Bacteriology set up experiment (_E. coli_ and _Bacillus_); Paper discussion and workshopping|Lab manual 12.4 (read to understand techniques); Textbook as needed|Week 5 Quiz||
-|6 May, 2019|6|Finish bacteriology data collection*; Systematics lab activity with shells|[Read handout](https://docs.google.com/document/d/1AMxtp4aF9z3ZwjC_xZD9bRJZM-MAmJS3wwWfmoUBhNk/edit?usp=sharing)|Week 6 Quiz||
-|13 May, 2019|7|Eukarya (Protists, Plants, Fungi, Animals)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 7 Quiz (Systematics lab and intro. to protists)||
-|20 May, 2019|8|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 8 Quiz (Protists)||
-|27 May, 2019|9|Eukarya (cont.)|Lab manual 13-15, 17-19 and studyguide (independently paced)|Week 9 Quiz (Plants and fungi)|**Scientific paper due at start of lab**|
-|3 Jun., 2019|10|**Laboratory Final Exam** during normal lab time|||
+|1 Apr., 2019|1|Intro. to lab; Plant Anatomy Read Lab 21 and Text Ch 39 if time, start asking plant questions.|20.1-20.4|||
+|8 Apr., 2019|2| Team Research to develop Question, Justify Hypothesis, and Design Experiment|Read Chapter 39 prior to lab|Week 2 Quiz|Question, Hypoth, Justif, Experimental Design, and detailed Materials list (must be in spreadsheet format - excel or google sheet) due at end of lab TODO make dropbox (or two) TODO Indiv Ind Invest proposal due Wed in lecture.|
+|15 Apr., 2019|3|Set up and start experiment, Continue Team work and planning|Lab 21 and textbook Ch 39 as reference. Use primary literature too|Week 3 Quiz||
+|22 Apr., 2019|4|Vertebrate Anatomy I|22.1-22.3|Week 4 Quiz||
+|29 Apr., 2019|5|Vertebrate Anatomy II|23.1-23.3, 23.6|Week 5 Quiz|TODO Plant progress due Monday in lab (see project handout)|
+|6 May, 2019|6|Vertebrate Anatomy III|24.1-24.3|Week 6 Quiz||
+|13 May, 2019|7|**Lab Practical (TODO see objectives sheet)**||Week 7 Quiz||
+|20 May, 2019|8|Ecology Project|27 and TODO Handout|Week 8 Quiz|TODO “Part of plant paper” due Monday in lab (One of the group; see handout), Plant paper due Friday at noon (one for group), Indiv. Indep Inv due Wed.|
+|27 May, 2019|9|Ecology Project (cont.)|27 and TODO Handout|Week 9 Quiz (Plants and fungi)|TODO Ecology Report Due in lecture on Wed, TODO **Scientific paper due at start of lab**|
+|3 Jun., 2019|10|I.I.I. Presentations||I.I.I. Presentations|
 |10 Jun., 2019|11|**Lab does not meet during finals week**|||||
-
-*Highly recommended to measure (and photograph) zone of inhibition 2 days after incubation was started/experiment was begun
 
 ---
 
