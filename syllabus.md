@@ -20,9 +20,16 @@ Admin. Asst.: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 Check D2L every day for course content. Use your PCC account for email. DO NOT USE D2L email as it does not get forwarded to my PCC inbox. It is PCC policy that we are to use PCC email for electronic communication about schoolwork or other college related business. You may also leave me a note at the office drop box  in Bldg. 7/Rm. 202. I plan on checking my email daily. If you send me an important message and you don’t get a reply from me within two school days, please try again. It probably means I did not receive it. Please note that I won't accept as an excuse that email failed unless you are able to forward the message you sent.
 
 ---
-## Course Info
+## Course Info and Objectives
 
-Second part of a three quarter sequence designed for students majoring in biology and the sciences, including pre-medical, pre-dental, chiropractic, pharmacy, and related fields. Topics include inheritance, the genetic code, modern and classical genetics, evolution, diversity, and systematics.Recommended: High school biology and chemistry within the past seven years.
+Third part of a three quarter sequence designed for students majoring in biology and the sciences, including pre-medical, pre-dental, chiropractic, pharmacy, and related fields. Topics include TODO
+
+Upon successful completion students will be able to:- Apply biological theories and concepts to novel problems in plant/animal anatomy and physiology and ecology
+- Assess the strengths and weaknesses of scientific studies in plant/animal anatomy and physiology and ecology and critically examine the influence of scientific and technical knowledge of plant/animal anatomy and physiology and ecology on human society and the environment.
+- Apply concepts from plant/animal anatomy and physiology and ecology to their lives and community (personal, work, and career)
+- Develop informed positions and opinions on contemporary issues in plant/animal anatomy and physiology and ecology, while considering ethical, scientific, community, and cultural implications
+- Communicate concepts in plant/animal anatomy and physiology and ecology using appropriate terminology in both written and verbal forms.
+- Competently enter and complete further work in the sciences upper-level courses in plant/animal anatomy, physiology, and ecology.Recommended: High school biology and chemistry within the past seven years.
 
 Prerequisites: BI 212 C or above or instructor approval.
 See [Course Content and Outcomes Guide](https://www.pcc.edu/ccog/?fa=ccog&subject=BI&course=213) for a complete course content guide.
@@ -60,6 +67,7 @@ BI 213 is a five credit hour course which meets seven hours per week for the qua
 
 
 ### Optional
+- Dissection kit
 - Plan to access to other high-quality educational and library resources including those recommended in class and/or posted at D2L.- Goggles and gloves are provided in the lab, but if you prefer to use your own, please bring these. Note that you will need to wear gloves during the dissections labs.
 
 ---
