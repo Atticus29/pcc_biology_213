@@ -156,7 +156,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Wednesday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1 Apr., 2019|1|Intro. to lab; Plant Anatomy; Start asking plant questions with your group|Lab Manual 20.1-20.4; Text Chapter 39 in prep. for next week|||
-|8 Apr., 2019|2| Team Research to Develop Question, Justify Hypothesis, and Design Experiment|Text Chapter 39|Week 2 Quiz|Question, Hypothesis, Justification, Experimental Design, and detailed Materials list (this section must be in spreadsheet format - excel or google sheet) due at end of lab TODO make dropbox (or two) TODO Indiv. Ind. Invest proposal due Wed in lecture.|
+|8 Apr., 2019|2| Team Research to Develop Question, Justify Hypothesis, and Design Experiment|Text Chapter 39|Week 2 Quiz|Question, Hypothesis, Justification, Experimental Design, and detailed Materials list (this section must be in spreadsheet format - excel or google sheet) due at end of lab (Submit on D2L) TODO Indiv. Ind. Invest proposal due Wed in lecture.|
 |15 Apr., 2019|3|Set up and start experiment, Continue team work and planning|Lab 21 and textbook Ch 39 as reference. Use primary literature too|Week 3 Quiz||
 |22 Apr., 2019|4|Paper workshopping and TODO lecture-like activities||||
 |29 Apr., 2019|5|Vertebrate Anatomy I|Lab Manual 22.1-22.3|Week 5 Quiz||TODO Plant progress due Monday in lab (see project handout)|
