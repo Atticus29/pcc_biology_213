@@ -156,14 +156,14 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Wednesday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1 Apr., 2019|1|Intro. to lab; Plant Anatomy; Start asking plant questions with your group|Lab Manual 20.1-20.4; Text Chapter 39 in prep. for next week|||
-|8 Apr., 2019|2| Team Research to Develop Question, Justify Hypothesis, and Design Experiment|Text Chapter 39|Week 2 Quiz|Question, Hypothesis, Justification, Experimental Design, and detailed Materials list (this section must be in spreadsheet format - excel or google sheet) due at end of lab (Submit on D2L) TODO Indiv. Ind. Invest proposal due Wed in lecture.|
+|8 Apr., 2019|2| Team Research to Develop Question, Justify Hypothesis, and Design Experiment|Text Chapter 39|Week 2 Quiz|Question, Hypothesis, Justification, Experimental Design due and detailed Materials list due at end of lab (Submit on D2L). Materials list must be in spreadsheet format - excel or google sheet (see [handout](https://docs.google.com/document/d/1b42JsvX-Nyj6EvkQ6I2NrYk_bj5Mlu8MwJs4lo5XQYA/edit?usp=sharing)  TODO Indiv. Ind. Invest proposal due Wed in lecture.|
 |15 Apr., 2019|3|Set up and start experiment, Continue team work and planning|Lab 21 and textbook Ch 39 as reference. Use primary literature too|Week 3 Quiz||
 |22 Apr., 2019|4|Paper workshopping and TODO lecture-like activities||||
-|29 Apr., 2019|5|Vertebrate Anatomy I|Lab Manual 22.1-22.3|Week 5 Quiz||TODO Plant progress due Monday in lab (see project handout)|
-|6 May, 2019|6|Vertebrate Anatomy II|Lab Manual 23.1-23.3, 23.6|Week 6 Quiz|TODO Plant progress due Monday in lab (see project handout)|
+|29 Apr., 2019|5|Vertebrate Anatomy I|Lab Manual 22.1-22.3|Week 5 Quiz|Plant project progress update due Wednesday before lab (see project [handout](https://docs.google.com/document/d/1b42JsvX-Nyj6EvkQ6I2NrYk_bj5Mlu8MwJs4lo5XQYA/edit?usp=sharing)) (Submit on D2L)|
+|6 May, 2019|6|Vertebrate Anatomy II|Lab Manual 23.1-23.3, 23.6|Week 6 Quiz||
 |13 May, 2019|7|Vertebrate Anatomy III|Lab Manual 24.1-24.3|||
-|20 May, 2019|8|**Lab Practical (TODO see objectives sheet)**||||Ecology Project|Lab Manual 27 and TODO Handout||TODO “Part of plant paper” due Monday in lab (One of the group; see handout), Plant paper due Friday at noon (one for group), Indiv. Indep Inv due Wed.|
-|27 May, 2019|9|Ecology Project|Lab Manual 27 and TODO Handout||TODO Plant Paper Due on Friday (**ONE PER GROUP**)|
+|20 May, 2019|8|**Lab Practical (TODO see objectives sheet)**|||Plant paper due by the end of lab on Wednesday (**one for group**); TODO Indiv. Indep Inv due Wed.|Ecology Project|
+|27 May, 2019|9|Ecology Project|Lab Manual 27 and TODO Handout|||
 |3 Jun., 2019|10|Ecology Presentations||Ecology Presentations|
 |10 Jun., 2019|11|**Lab does not meet during finals week**|||||
 
