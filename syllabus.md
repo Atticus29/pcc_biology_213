@@ -139,7 +139,7 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 |Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|Other Comments
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1 Apr., 2019|1|Syllabus Review, Introductions, Chapter 35 (Plant Structure and Growth)/Chapter 36 (Transport in Plants)|35, 36||Friday 5 Apr. last day to audit; Sat. 6 Apr. last day to drop 8-12 week classes; Sat. 6 Apr. last day to choose financial aid refund option|
-|8 Apr., 2019|2| Chapter 37 (Plant Nutrition)/Chapter 38 (Plant Reproduction)(Independent Reading), Chapter 39 (Plant Responses)(Independent Reading) |37, 38, 39||Tuesday 9 Apr. last day to add classes|
+|8 Apr., 2019|2| Chapter 36 (Transport in Plants) (cont.), Chapter 37 (Plant Nutrition)/Chapter 37 (Plant Nutrition) (cont.), Chapter 38 (Plant Reproduction)(Independent Reading), Chapter 39 (Plant Responses)(Independent Reading) |37, 38, 39||Tuesday 9 Apr. last day to add classes|
 |15 Apr., 2019|3|**EXAM I Monday**/Chapter 40 (An Introduction to Animals)|40|MasteringBiology online work Chapters 35 - 39 (Friday Apr. 19)||
 |22 Apr., 2019|4| Chapter 41 (Animal Nutrition)/Chapter 42 (Circulation and Gas Exchange)|41, 42|||
 |29 Apr., 2019|5|Chapter 44 (Osmoregulation and Excretion)/**EXAM 2 (Wednesday)**|44|MasteringBiology online work Chapters 40 - 42 (Friday May 3)||
