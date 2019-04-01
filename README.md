@@ -108,7 +108,7 @@ BI 213 is a five credit hour course which meets seven hours per week for the qua
 |Lab quizzes 4 @ 10 pts. each, lowest dropped|See additional details below|30 pts.|In lab, as paper or preferably submitted in real time as Google Form|
 |Laboratory Practical Exam|See description below|75 pts.|On paper during lab period|
 |Scientific Research Project|See description on D2L|100 pts.|Submitted component on D2L|
-|Ecology Project|See description on [separate document](https://docs.google.com/document/d/1-rvqVRslGXHLsSoApk7QtHHdyz-Hjc4h1dSlLROtqoY/edit?usp=sharing)|25 pts.|Submitted component on D2L|
+|Ecology Project|See description on [separate document](https://docs.google.com/document/d/1-rvqVRslGXHLsSoApk7QtHHdyz-Hjc4h1dSlLROtqoY/edit?usp=sharing); 15 pts. for write up, 10 pts. for presentation|25 pts.|Submitted component on D2L|
 |**Total Points**|---|**1050 pts.**|
 
 ### Additional details about graded materials
@@ -163,9 +163,9 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |29 Apr., 2019|5|Vertebrate Anatomy I|Lab Manual 22|Week 5 Quiz|Plant project progress update due Wednesday before lab (see project [handout](https://docs.google.com/document/d/1b42JsvX-Nyj6EvkQ6I2NrYk_bj5Mlu8MwJs4lo5XQYA/edit?usp=sharing)) (Submit on D2L)|
 |6 May, 2019|6|Vertebrate Anatomy II|Lab Manual 23, 23.6|Week 6 Quiz||
 |13 May, 2019|7|Vertebrate Anatomy III|Lab Manual 24|||
-|20 May, 2019|8|**Lab Practical (TODO see objectives sheet)**|||Plant paper due by the end of lab on Wednesday (**one for group**)(D2L)|Ecology Project|
+|20 May, 2019|8|**Lab Practical (TODO see objectives sheet)**|||Plant paper due by the begining of lab (**one for group**)(D2L); Anonymous Group Contribution Feedback Form due by midnight (D2L)|Ecology Project|
 |27 May, 2019|9|Ecology Project|Lab Manual 27 and [Handout](https://docs.google.com/document/d/1-rvqVRslGXHLsSoApk7QtHHdyz-Hjc4h1dSlLROtqoY/edit?usp=sharing)||I.I.I. due by start of lab (D2L)|
-|3 Jun., 2019|10|Ecology and I.I.I. Presentations||Ecology and I.I.I. Presentations|
+|3 Jun., 2019|10|Ecology and I.I.I. Presentations||Ecology and I.I.I. Presentations|Ecology write up (**one per group**) due before lab begins (D2L)|
 |10 Jun., 2019|11|**Lab does not meet during finals week**|||||
 
 ---
