@@ -126,7 +126,7 @@ BI 213 is a five credit hour course which meets seven hours per week for the qua
 - *Lab quizzes*
     - There will be a quiz each Wednesday at the beginning of lab. Quizzes will cover the previous lab activities and will **also include questions that refer to the current lab activities**. The best way to earn quiz points is to make sure that you are able to discuss and explain the lab activity’s goals, independent and dependent variables, background, methods used, and results before you leave each lab session. The focus of these quizzes is on **comprehension** rather than memorization, but knowledge of terms and organism names introduced in the lab protocol or handout are also essential. Please work cooperatively with your group to answer the lab manual study questions at the end of each unit to ensure you understood everything in that unit. The lab manual answers will not be submitted and graded. Instead, the _quiz_ will be used to assess how much you learned; the quizzes are done alone. **Read and study each lab activity before you do it**. Use your textbook as a resource if you need additional information to support your study of the lab concepts. You will have the first 10-15 minutes of lab time to complete the quiz. If you are late, you will only have the time remaining to complete it, and if you are more than ten minutes late, you cannot take the quiz. There will be no make-up lab quizzes except as part of a complete makeup lab attendance as described in the Attendance section. The lowest quiz grade will be dropped.
 - *Lab Practical*
-    - TODO
+    - This is a “hands-on exam” where you will have to identify slides and specimens that you saw throughout the term and answer questions about the specimens. During labs throughtout the quarter, be sure to **take good notes, sketch specimens, and/or take pictures**, as there may not be any other opportunities to see those materials again before the practical.
 
 ### Grade template
 Please use the following [grading spreadsheet](https://docs.google.com/spreadsheets/d/1vSSOTCBrbDPnUCpOZkJ-SbSeR9movg3T8APcjP5lcr8/edit?usp=sharing) to answer all of your, "what do I need to get a ___?" questions. The formulas are in place to calculate your final grade by simply entering your scores on various assignments.
@@ -156,16 +156,16 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Wednesday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1 Apr., 2019|1|Intro. to lab; Plant Anatomy; Start asking plant questions with your group|Lab Manual 20.1-20.4; Text Chapter 39 in prep. for next week|||
-|8 Apr., 2019|2| Team Research to Develop Question, Justify Hypothesis, and Design Experiment|Text Chapter 39|Week 2 Quiz|Question, Hypothesis, Justification, Experimental Design due and detailed Materials list due at end of lab (Submit on D2L). Materials list must be in spreadsheet format - excel or google sheet (see [handout](https://docs.google.com/document/d/1b42JsvX-Nyj6EvkQ6I2NrYk_bj5Mlu8MwJs4lo5XQYA/edit?usp=sharing)) TODO Indiv. Ind. Invest proposal due Wed in lecture (see [handout](https://docs.google.com/document/d/1y6Zyibc7yLhaXgbGenAPdYYPj8cG-llZO0fw9ahIJog/edit?usp=sharing))|
+|1 Apr., 2019|1|Intro. to lab; Plant Anatomy; Start asking plant questions with your group|Lab Manual 20; Text Chapter 39 in prep. for next week|||
+|8 Apr., 2019|2| Team Research to Develop Question, Justify Hypothesis, and Design Experiment|Text Chapter 39|Week 2 Quiz|Question, Hypothesis, Justification, Experimental Design due and detailed Materials list due at end of lab (Submit on D2L). Materials list must be in spreadsheet format - excel or google sheet (see [handout](https://docs.google.com/document/d/1b42JsvX-Nyj6EvkQ6I2NrYk_bj5Mlu8MwJs4lo5XQYA/edit?usp=sharing)) Indiv. Ind. Invest proposal due by end of lab (see [handout](https://docs.google.com/document/d/1y6Zyibc7yLhaXgbGenAPdYYPj8cG-llZO0fw9ahIJog/edit?usp=sharing))|
 |15 Apr., 2019|3|Set up and start experiment, Continue team work and planning|Lab 21 and textbook Ch 39 as reference. Use primary literature too|Week 3 Quiz||
-|22 Apr., 2019|4|Paper workshopping and TODO lecture-like activities||||
-|29 Apr., 2019|5|Vertebrate Anatomy I|Lab Manual 22.1-22.3|Week 5 Quiz|Plant project progress update due Wednesday before lab (see project [handout](https://docs.google.com/document/d/1b42JsvX-Nyj6EvkQ6I2NrYk_bj5Mlu8MwJs4lo5XQYA/edit?usp=sharing)) (Submit on D2L)|
-|6 May, 2019|6|Vertebrate Anatomy II|Lab Manual 23.1-23.3, 23.6|Week 6 Quiz||
-|13 May, 2019|7|Vertebrate Anatomy III|Lab Manual 24.1-24.3|||
-|20 May, 2019|8|**Lab Practical (TODO see objectives sheet)**|||Plant paper due by the end of lab on Wednesday (**one for group**); TODO Indiv. Indep Inv due Wed.|Ecology Project|
-|27 May, 2019|9|Ecology Project|Lab Manual 27 and TODO Handout|||
-|3 Jun., 2019|10|Ecology Presentations||Ecology Presentations|
+|22 Apr., 2019|4|Paper workshopping and TODO activities to assist with learning lecture material||||
+|29 Apr., 2019|5|Vertebrate Anatomy I|Lab Manual 22|Week 5 Quiz|Plant project progress update due Wednesday before lab (see project [handout](https://docs.google.com/document/d/1b42JsvX-Nyj6EvkQ6I2NrYk_bj5Mlu8MwJs4lo5XQYA/edit?usp=sharing)) (Submit on D2L)|
+|6 May, 2019|6|Vertebrate Anatomy II|Lab Manual 23, 23.6|Week 6 Quiz||
+|13 May, 2019|7|Vertebrate Anatomy III|Lab Manual 24|||
+|20 May, 2019|8|**Lab Practical (TODO see objectives sheet)**|||Plant paper due by the end of lab on Wednesday (**one for group**)(D2L)|Ecology Project|
+|27 May, 2019|9|Ecology Project|Lab Manual 27 and [Handout](https://docs.google.com/document/d/1-rvqVRslGXHLsSoApk7QtHHdyz-Hjc4h1dSlLROtqoY/edit?usp=sharing)||I.I.I. due by start of lab (D2L)|
+|3 Jun., 2019|10|Ecology and I.I.I. Presentations||Ecology and I.I.I. Presentations|
 |10 Jun., 2019|11|**Lab does not meet during finals week**|||||
 
 ---
