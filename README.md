@@ -129,7 +129,7 @@ BI 213 is a five credit hour course which meets seven hours per week for the qua
     - TODO
 
 ### Grade template
-Please use the following [grading spreadsheet](https://docs.google.com/spreadsheets/d/1gmV7qEaz7CLax06-Hwui_gBZeqdD4M_AopdK5VUl4K8/edit?usp=sharing) to answer all of your, "what do I need to get a ___?" questions. The formulas are in place to calculate your final grade by simply entering your scores on various assignments.
+Please use the following [grading spreadsheet](https://docs.google.com/spreadsheets/d/1vSSOTCBrbDPnUCpOZkJ-SbSeR9movg3T8APcjP5lcr8/edit?usp=sharing) to answer all of your, "what do I need to get a ___?" questions. The formulas are in place to calculate your final grade by simply entering your scores on various assignments.
 
 ---
 ## Course Schedule
