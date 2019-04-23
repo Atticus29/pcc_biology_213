@@ -159,9 +159,9 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |1 Apr., 2019|1|Intro. to lab; Plant Anatomy; Start asking plant questions with your group|Lab Manual 20; Text Chapter 39 in prep. for next week|||
 |8 Apr., 2019|2| Team Research to Develop Question, Justify Hypothesis, and Design Experiment|Text Chapter 39|Week 2 Quiz|Question, Hypothesis, Justification, Experimental Design due and detailed Materials list due at end of lab (Submit on D2L). Materials list must be in spreadsheet format - excel or google sheet (see [handout](https://docs.google.com/document/d/1b42JsvX-Nyj6EvkQ6I2NrYk_bj5Mlu8MwJs4lo5XQYA/edit?usp=sharing)) Indiv. Ind. Invest proposal due (see [handout](https://docs.google.com/document/d/1y6Zyibc7yLhaXgbGenAPdYYPj8cG-llZO0fw9ahIJog/edit?usp=sharing))|
 |15 Apr., 2019|3|Set up and start experiment, Continue team work and planning|Lab 21 and textbook Ch 39 as reference. Use primary literature too|Week 3 Quiz||
-|22 Apr., 2019|4|Paper workshopping and (possibly) activities to assist with learning lecture material (TBA)||||
-|29 Apr., 2019|5|Vertebrate Anatomy I|Lab Manual 22|Week 5 Quiz|Plant project progress update due Wednesday before lab (see project [handout](https://docs.google.com/document/d/1b42JsvX-Nyj6EvkQ6I2NrYk_bj5Mlu8MwJs4lo5XQYA/edit?usp=sharing)) (Submit on D2L)|
-|6 May, 2019|6|Vertebrate Anatomy II|Lab Manual 23, 23.6|Week 6 Quiz||
+|22 Apr., 2019|4|Vertebrate Anatomy I|Lab Manual 22|||
+|29 Apr., 2019|5|Paper workshopping and (possibly) activities to assist with learning lecture material (TBA)|Week 5 Quiz|Plant project progress update due Wednesday before lab (see project [handout](https://docs.google.com/document/d/1b42JsvX-Nyj6EvkQ6I2NrYk_bj5Mlu8MwJs4lo5XQYA/edit?usp=sharing)) (Submit on D2L)|
+|6 May, 2019|6|Vertebrate Anatomy II|Lab Manual 23|Week 6 Quiz||
 |13 May, 2019|7|Vertebrate Anatomy III|Lab Manual 24|||
 |20 May, 2019|8|**Lab Practical (see objectives sheet on D2L)**|||Plant paper due by the begining of lab (**one for group**)(D2L); Anonymous Group Contribution Feedback Form due by midnight (D2L)|Ecology Project|
 |27 May, 2019|9|Ecology Project|Lab Manual 27 and [Handout](https://docs.google.com/document/d/1-rvqVRslGXHLsSoApk7QtHHdyz-Hjc4h1dSlLROtqoY/edit?usp=sharing)||I.I.I. due by start of lab (D2L)|
