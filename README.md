@@ -141,8 +141,8 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 |1 Apr., 2019|1|Syllabus Review, Introductions, Chapter 35 (Plant Structure and Growth)/Chapter 36 (Transport in Plants)|35, 36||Friday 5 Apr. last day to audit; Sat. 6 Apr. last day to drop 8-12 week classes; Sat. 6 Apr. last day to choose financial aid refund option|
 |8 Apr., 2019|2| Chapter 36 (Transport in Plants) (cont.), Chapter 37 (Plant Nutrition)/Chapter 37 (Plant Nutrition) (cont.), Chapter 38 (Plant Reproduction)(Independent Reading), Chapter 39 (Plant Responses)(Independent Reading) |37, 38, 39||Tuesday 9 Apr. last day to add classes|
 |15 Apr., 2019|3|**EXAM I Monday**/Chapter 40 (An Introduction to Animals)|40|MasteringBiology online work Chapters 35 - 39 (Friday Apr. 19)||
-|22 Apr., 2019|4| Chapter 41 (Animal Nutrition)/Chapter 42 (Circulation and Gas Exchange)|41, 42|||
-|29 Apr., 2019|5|Chapter 44 (Osmoregulation and Excretion)/**EXAM 2 (Wednesday)**|44|MasteringBiology online work Chapters 40 - 42 (Friday May 3)||
+|22 Apr., 2019|4| Chapter 40 (An Introduction to Animals) (cont.), Chapter 41 (Animal Nutrition)/Chapter 41 (Animal Nutrition) (cont.), Chapter 42 (Circulation and Gas Exchange)|41, 42|||
+|29 Apr., 2019|5|Chapter 42 (Circulation and Gas Exchange) (cont.), Chapter 44 (Osmoregulation and Excretion)(Independent Reading)/**EXAM 2 (Wednesday)**|44|MasteringBiology online work Chapters 40 - 42 (Friday May 3)||
 |6 May, 2019|6|Chapter 45 (Endocrine System)/Chapter 48 (Neurons, Synapses, and Signaling), Chapter 49 (Nervous Systems)(Independent Reading)|45, 48, 49|Study Skills 1 (D2L) due Friday by 11:59 PM||
 |13 May, 2019|7|Ch. 50 (Sensory & Motor Mechanisms)/ Chapter 52 (An Intro. to Ecology) |50, 52|||
 |20 May, 2019|8|Chapter 53 (Population Ecology)/**EXAM 3 Wednesday**|53|MasteringBiology online work Chapters 44, 45, 48-50,52 (Friday May 24)|Sat. 25 May last day to change grade option for 11-12 week classes, last day to withdraw from 11-12 week classes|
