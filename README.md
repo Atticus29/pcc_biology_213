@@ -147,7 +147,7 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 |13 May, 2019|7|Ch. 50 (Sensory & Motor Mechanisms)/ Chapter 52 (An Intro. to Ecology) |50, 52|||
 |20 May, 2019|8|Chapter 53 (Population Ecology)/**EXAM 3 Wednesday**|53|MasteringBiology online work Chapters 44, 45, 48-50,52 (Friday May 24)|Sat. 25 May last day to change grade option for 11-12 week classes, last day to withdraw from 11-12 week classes|
 |27 May, 2019|9|**Holiday; No class**/Chapter 52 (An Intro. to Ecology) (cont.), Chapter 54 (Community Ecology)|54|||
-|3 Jun., 2019|10|Chapter 54 (Community Ecology) (cont.), Chapter 55 (Ecosystems)/Chapter 56 (Conservation Biology) if time|55, 56|Study Skills 2 (D2L) due Friday by 11:59 PM; MasteringBiology online work Chapters 53 - 56 (Friday Jun. 7)||
+|3 Jun., 2019|10|Chapter 54 (Community Ecology) (cont.), Chapter 55 (Ecosystems)/Chapter 55 (Ecosystems) (cont.), Group ecology presentations|55|Study Skills 2 (D2L) due Friday by 11:59 PM; MasteringBiology online work Chapters 53 - 56 (Friday Jun. 7)||
 |Monday 10 Jun., 2019, 5:00 PM - 6:50 PM|11|**Comprehensive FINAL EXAM Rm. 106**|NA||||
 
 ### Lab
@@ -165,7 +165,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |13 May, 2019|7|Vertebrate Anatomy III|Lab Manual 24|Week 7 Quiz||
 |20 May, 2019|8|**Lab Practical (see objectives sheet on D2L)**|||Plant paper due by the begining of lab (**one for group**)(D2L); Anonymous Group Contribution Feedback Form due by midnight (D2L)|Ecology Project|
 |27 May, 2019|9|Ecology Project|Lab Manual 27 and [Handout](https://docs.google.com/document/d/1-rvqVRslGXHLsSoApk7QtHHdyz-Hjc4h1dSlLROtqoY/edit?usp=sharing)||I.I.I. due by start of lab (D2L)|
-|3 Jun., 2019|10|Ecology and I.I.I. Presentations||Ecology and I.I.I. Presentations|Ecology write up (**one per group**) due before lab begins (D2L)|
+|3 Jun., 2019|10|I.I.I. Presentations||I.I.I. Presentations|Ecology write up (**one per group**) due before lab begins (D2L)|
 |10 Jun., 2019|11|**Lab does not meet during finals week**|||||
 
 ---
