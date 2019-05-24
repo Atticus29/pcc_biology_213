@@ -146,8 +146,8 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 |6 May, 2019|6|Chapter 45 (Endocrine System)/Chapter 48 (Neurons, Synapses, and Signaling), Chapter 49 (Nervous Systems)(Independent Reading)|45, 48, 49|Study Skills 1 (D2L) due Friday by 11:59 PM||
 |13 May, 2019|7|Ch. 50 (Sensory & Motor Mechanisms)/ Chapter 52 (An Intro. to Ecology) |50, 52|||
 |20 May, 2019|8|Chapter 53 (Population Ecology)/**EXAM 3 Wednesday**|53|MasteringBiology online work Chapters 44, 45, 48-50,52 (Friday May 24)|Sat. 25 May last day to change grade option for 11-12 week classes, last day to withdraw from 11-12 week classes|
-|27 May, 2019|9|**Holiday; No class**/Chapter 54 (Community Ecology)|54|||
-|3 Jun., 2019|10|Chapter 55 (Ecosystems)/Chapter 56 (Conservation Biology)|55, 56|Study Skills 2 (D2L) due Friday by 11:59 PM; MasteringBiology online work Chapters 53 - 56 (Friday Jun. 7)||
+|27 May, 2019|9|**Holiday; No class**/Chapter 52 (An Intro. to Ecology) (cont.), Chapter 54 (Community Ecology)|54|||
+|3 Jun., 2019|10|Chapter 54 (Community Ecology) (cont.), Chapter 55 (Ecosystems)/Chapter 56 (Conservation Biology) if time|55, 56|Study Skills 2 (D2L) due Friday by 11:59 PM; MasteringBiology online work Chapters 53 - 56 (Friday Jun. 7)||
 |Monday 10 Jun., 2019, 5:00 PM - 6:50 PM|11|**Comprehensive FINAL EXAM Rm. 106**|NA||||
 
 ### Lab
